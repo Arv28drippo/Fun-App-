@@ -1,0 +1,10 @@
+body{
+    background-color: darkslategray;
+    margin-top: 10px;
+}
+
+#label{
+    color: white;
+    font-size: 30px;
+    font-family: fantasy;
+}
